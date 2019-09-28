@@ -12,6 +12,7 @@
 ユーザー名：<input type="text" name="name"><br>
 パスワード：<input type="text" name="pass"><br>
 <input type="submit" value="ログイン">
+<jsp:include page="/WEB-INF/jsp/footer.jsp" />
 </form>
 </body>
 </html>
